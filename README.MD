@@ -1,3 +1,2 @@
-
-# CALCULATOR PROGRAM
-This program performs basic arithemtic operations.
+# Calculator Program
+This program performs basic arithemtic operations 
